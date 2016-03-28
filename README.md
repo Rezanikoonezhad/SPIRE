@@ -1,0 +1,2 @@
+# SPIRE
+Just another repository
